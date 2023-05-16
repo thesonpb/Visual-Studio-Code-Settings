@@ -1,28 +1,6 @@
 {
     "liveServer.settings.donotShowInfoMsg": true,
     "git.autofetch": true,
-    // "workbench.colorCustomizations": {
-    //     "terminal.background": "#1B2B34",
-    //     "terminal.foreground": "#C0C5CE",
-    //     "terminalCursor.background": "#C0C5CE",
-    //     "terminalCursor.foreground": "#C0C5CE",
-    //     "terminal.ansiBlack": "#1B2B34",
-    //     "terminal.ansiBlue": "#6699CC",
-    //     "terminal.ansiBrightBlack": "#65737E",
-    //     "terminal.ansiBrightBlue": "#6699CC",
-    //     "terminal.ansiBrightCyan": "#5FB3B3",
-    //     "terminal.ansiBrightGreen": "#99C794",
-    //     "terminal.ansiBrightMagenta": "#C594C5",
-    //     "terminal.ansiBrightRed": "#EC5F67",
-    //     "terminal.ansiBrightWhite": "#D8DEE9",
-    //     "terminal.ansiBrightYellow": "#FAC863",
-    //     "terminal.ansiCyan": "#5FB3B3",
-    //     "terminal.ansiGreen": "#99C794",
-    //     "terminal.ansiMagenta": "#C594C5",
-    //     "terminal.ansiRed": "#EC5F67",
-    //     "terminal.ansiWhite": "#C0C5CE",
-    //     "terminal.ansiYellow": "#FAC863"
-    // },
     "tabnine.experimentalAutoImports": true,
     "code-runner.runInTerminal": true,
     "editor.suggestSelection": "first",
@@ -38,15 +16,10 @@
     "editor.fontLigatures": false,
     "editor.rulers": [120],
     "prettier.tabWidth": 4,
-    "terminal.integrated.fontSize": 14,
     "extensions.ignoreRecommendations": true,
     "editor.codeActionsOnSave": {},
     "settingsSync.ignoredSettings": [],
-    "editor.fontSize": 14,
-    "editor.fontWeight": "100",
     "javascript.updateImportsOnFileMove.enabled": "always",
     "editor.fontVariations": false,
-    "window.zoomLevel": 1,
-    "workbench.colorTheme": "Atom One Dark"
+    "workbench.colorTheme": "Material Theme Palenight High Contrast"
 }
-

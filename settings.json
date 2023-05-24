@@ -21,5 +21,24 @@
     "settingsSync.ignoredSettings": [],
     "javascript.updateImportsOnFileMove.enabled": "always",
     "editor.fontVariations": false,
-    "workbench.colorTheme": "Material Theme Palenight High Contrast"
+    "background.enabled": true,
+    "background.loop": false,
+    "background.useDefault": false,
+    "background.useFront": false,
+    "background.style": {
+        "content": "''",
+        "pointer-events": "none",
+        "position": "absolute",
+        "z-index": "99999",
+        "width": "100%",
+        "height": "100%",
+        "background-size": "cover",
+        "background-repeat": "no-repeat",
+        "opacity": 0.4
+    },
+    "background.customImages": [
+        "file:///F:/TheSon/Wallpaper/pexels-cátia-matos-1072179.jpg"
+    ],
+    "workbench.colorTheme": "One Dark Pro Darker"
+    // "editor.cursorSmoothCaretAnimation": "on"
 }
